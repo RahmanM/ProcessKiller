@@ -1,0 +1,10 @@
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Nerdle.AutoConfig.dll
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Polly.dll
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Topshelf.dll
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Polly.pdb
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Polly.xml
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\Topshelf.xml
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\ProcessKiller.exe.config
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\bin\Release\ProcessKiller.exe
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.csprojResolveAssemblyReference.cache
+C:\Users\rahman\Documents\SharpDevelop Projects\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.exe
